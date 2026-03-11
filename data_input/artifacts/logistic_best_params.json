@@ -1,8 +1,8 @@
 {
-  "alpha": 1,
-  "base_score": 0.5,
-  "lambda_reg": 0.1,
-  "learning_rate": 0.01,
-  "num_iterations": 500,
+  "alpha": 0.0,
+  "base_score": 0.7,
+  "lambda_reg": 0.01,
+  "learning_rate": 0.1,
+  "num_iterations": 2000,
   "regularization": "elasticnet"
 }
